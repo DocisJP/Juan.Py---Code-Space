@@ -55,7 +55,28 @@ Una vez que el Codespace esté configurado, puedes comenzar a trabajar:
 ```bash
 jupyter notebook
 ```
+### A considerar
 
+### Uso Gratuito
+
+GitHub ofrece un nivel gratuito que incluye una cantidad limitada de horas de Codespaces por mes. Este nivel gratuito es ideal para proyectos personales y pruebas.
+
+- **60 horas al mes** para instancias de 2 cores y 4 GB de RAM.
+
+### Planes de Pago
+
+Si necesitas más horas o instancias más potentes, GitHub ofrece planes de pago. Los costos se basan en el tamaño de la instancia y el tiempo de uso.
+
+- **Instancias de mayor capacidad**: Si tu proyecto requiere más recursos, puedes optar por instancias con más cores y memoria, las cuales tendrán un costo adicional.
+- **Horas adicionales**: Si excedes el límite gratuito de 60 horas al mes, se aplicarán cargos adicionales según el plan de precios de GitHub.
+
+### Consideraciones Adicionales
+
+- **Control de Uso**: Monitorea el uso de Codespaces para asegurarte de no exceder tu cuota mensual gratuita.
+- **Configuración de Facturación**: Revisa y configura correctamente las opciones de facturación en tu cuenta de GitHub.
+- **Advertencia de Costos**: Asegúrate de que todos los colaboradores comprendan cómo funciona la facturación de Codespaces y gestionen su uso adecuadamente.
+
+Para obtener más información sobre los planes de precios de GitHub Codespaces, visita la [página oficial de precios de GitHub Codespaces](https://github.com/features/codespaces#pricing).
 3. Abre el enlace proporcionado en el terminal para acceder a la interfaz de Jupyter Notebook en tu navegador.
 
 ## Licencia
